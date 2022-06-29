@@ -32,7 +32,7 @@
 
             <div class="ping relative rounded-full overflow-hidden aspect-square w-[100px] md:w-[200px] xl:w-[300px] ring-4">
               
-              <img src="~/assets/img/avatar/me.jpg" alt="" class="w-full object-cover">
+              <img src="~/assets/img/avatar/me.jpg" alt="" class="w-full object-cover" />
             </div>
           </div>
         </div>
@@ -61,20 +61,18 @@
               </ul>
             </p>
 
-            <p class="mt-8">
-              <div class="flex gap-5">
-                <a href="https://github.com/ojvribeiro" target="_blank" class="transition-ease duration-200 text-white hover:text-white/50">
-                  <i class="fab fa-github text-4xl"></i>
-                </a>
+            <p class="mt-8 flex gap-5">
+              <a href="https://github.com/ojvribeiro" target="_blank" class="transition-ease duration-200 text-white hover:text-white/50">
+                <i class="fab fa-github text-4xl"></i>
+              </a>
 
-                <a href="https://linkedin.com/in/ojvribeiro" target="_blank" class="transition-ease duration-200 text-white hover:text-white/50">
-                  <i class="fab fa-linkedin text-4xl"></i>
-                </a>
+              <a href="https://linkedin.com/in/ojvribeiro" target="_blank" class="transition-ease duration-200 text-white hover:text-white/50">
+                <i class="fab fa-linkedin text-4xl"></i>
+              </a>
 
-                <a href="https://twitter.com/ojvribeiro" target="_blank" class="transition-ease duration-200 text-white hover:text-white/50">
-                  <i class="fab fa-twitter text-4xl"></i>
-                </a>
-              </div>
+              <a href="https://twitter.com/ojvribeiro" target="_blank" class="transition-ease duration-200 text-white hover:text-white/50">
+                <i class="fab fa-twitter text-4xl"></i>
+              </a>
             </p>
           </div>
         </div>
